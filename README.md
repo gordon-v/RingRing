@@ -40,7 +40,7 @@ If you're looking to use the RingRing application without building it from sourc
 
 ## Video - Gameplay Demonstration 
 
-The video is availible here.
+The video is availible [here](https://finkiukim-my.sharepoint.com/:v:/g/personal/gordon_velichkovski_students_finki_ukim_mk/ETkQ8IfEYC9PtL2-B_sLS0sBN8JuzPkNZ55VEStc5La9Og?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VcYrYm).
 
 ## Short Explanation
 The game is built around 2 core classes.
