@@ -94,3 +94,11 @@ Example Workflow:
   3. If the ring collides with an obstacle, the game stops (stop_game()), and the game-over menu is displayed.
   
   4. The player can choose to restart the game (reset_game()) or continue (continue_game()).
+
+## Images
+<a href="url"><img src="Images/4.png" heigth=30% width=30% ></a>
+<a href="url"><img src="Images/1.png" heigth=30% width=30% ></a>
+<a href="url"><img src="Images/2.png" heigth=30% width=30% ></a>
+<a href="url"><img src="Images/3.png" heigth=30% width=30% ></a>
+
+
