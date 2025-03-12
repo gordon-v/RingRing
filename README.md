@@ -22,7 +22,7 @@ For size and licensing reasons, the following files are **not included** in this
 
 ## 🚀 Download the Compiled Application
 
-If you're looking to use the RingRing application without building it from source, you can download the **compiled release** from the [Releases](https://github.com/your-username/RingRing/releases) section. Two versions are available:
+If you're looking to use the RingRing application without building it from source, you can download the **compiled release** from the [Releases](https://github.com/gordon-v/RingRing/releases) section. Two versions are available:
 
 1. **Android**: The app is primarily intended for Android devices.
 2. **Windows**: A Windows version is also provided, but with limited functionality.
@@ -32,7 +32,7 @@ If you're looking to use the RingRing application without building it from sourc
 - **Windows**: Certain features (saving, achievements, transactions, leaderboard, ads) **will not work** on Windows. The Windows version is provided for testing and demonstration purposes only, however core game mechanics are functional.
 
 ### Steps to Download:
-1. Go to the [Releases](https://github.com/your-username/RingRing/releases) page.
+1. Go to the [Releases](https://github.com/gordon-v/RingRing/releases) page.
 2. Download the appropriate version for your platform (Android or Windows).
 3. For Android, install the APK on your device. For Windows, extract the files and run the executable.
 
