@@ -43,7 +43,7 @@ If you're looking to use the RingRing application without building it from sourc
 The video is availible [here](https://finkiukim-my.sharepoint.com/:v:/g/personal/gordon_velichkovski_students_finki_ukim_mk/ETkQ8IfEYC9PtL2-B_sLS0sBN8JuzPkNZ55VEStc5La9Og?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VcYrYm).
 
 ## Short Explanation
-The game is built around 2 core classes.
+The game is built around a few core classes.
 1. **Ring**: Represents the player-controlled ring. It handles movement, collisions, scaling (enlarge/shrink), and interactions with the game world. The ring's movement is controlled by mouse input, and it dynamically adjusts its speed and position based on player actions.
 2. **LineManager**: Manages the generation of line segments, coins, and power-ups. It ensures a continuous path for the player to follow and randomly spawns interactive elements like coins and power-ups.
 3. **GameManager**: The central controller for the game. It manages the game state, player interactions, UI, and core gameplay mechanics.
